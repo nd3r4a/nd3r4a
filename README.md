@@ -1,4 +1,1 @@
-- 👋 Hi, I am Ogundipe Olulowo Adebayo
-- 👀 I’m a user experience designer and motion designer 
-- 💞️ I’m looking to collaborate on deign projects
-- 📫 How to reach me (+234)8107308958
+
